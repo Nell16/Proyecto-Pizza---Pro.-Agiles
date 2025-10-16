@@ -1,0 +1,75 @@
+[2025-10-16 07:32:12,790] Receta actualizada | pepperoni v1 | {"masa": "260g", "salsa": "90g", "queso": "150g", "pepperoni": "60g"}
+[2025-10-16 07:32:12,790] Receta actualizada | hawaiana v1 | {"masa": "260g", "salsa": "90g", "queso": "150g", "jamon": "50g", "piña": "70g"}
+[2025-10-16 07:41:38,328] INFO | Iniciando cocción: pepperoni (grande) | objetivo 230.0°C
+[2025-10-16 07:41:38,829] {"type": "telemetry", "t": 0.5, "temp": 230.33, "target": 230.0}
+[2025-10-16 07:41:39,330] {"type": "telemetry", "t": 1.0, "temp": 229.1, "target": 230.0}
+[2025-10-16 07:41:39,831] {"type": "telemetry", "t": 1.5, "temp": 229.79, "target": 230.0}
+[2025-10-16 07:41:40,332] {"type": "telemetry", "t": 2.0, "temp": 230.89, "target": 230.0}
+[2025-10-16 07:41:40,841] INFO | Ajuste automático #1: nueva base 230.2°C
+[2025-10-16 07:41:40,841] {"type": "telemetry", "t": 2.51, "temp": 227.77, "target": 230.0}
+[2025-10-16 07:41:41,342] {"type": "telemetry", "t": 3.01, "temp": 229.01, "target": 230.0}
+[2025-10-16 07:41:41,843] {"type": "telemetry", "t": 3.52, "temp": 230.17, "target": 230.0}
+[2025-10-16 07:41:42,344] {"type": "telemetry", "t": 4.02, "temp": 228.06, "target": 230.0}
+[2025-10-16 07:41:42,845] {"type": "telemetry", "t": 4.52, "temp": 228.63, "target": 230.0}
+[2025-10-16 07:41:43,347] {"type": "telemetry", "t": 5.02, "temp": 229.17, "target": 230.0}
+[2025-10-16 07:41:43,848] {"type": "telemetry", "t": 5.52, "temp": 228.61, "target": 230.0}
+[2025-10-16 07:41:44,350] {"type": "telemetry", "t": 6.02, "temp": 230.08, "target": 230.0}
+[2025-10-16 07:41:44,851] {"type": "telemetry", "t": 6.52, "temp": 229.82, "target": 230.0}
+[2025-10-16 07:41:45,352] {"type": "telemetry", "t": 7.02, "temp": 230.73, "target": 230.0}
+[2025-10-16 07:41:45,854] {"type": "telemetry", "t": 7.53, "temp": 231.23, "target": 230.0}
+[2025-10-16 07:41:46,355] {"type": "telemetry", "t": 8.03, "temp": 230.16, "target": 230.0}
+[2025-10-16 07:41:46,856] {"type": "telemetry", "t": 8.53, "temp": 229.01, "target": 230.0}
+[2025-10-16 07:41:47,356] INFO | Ajuste automático #2: nueva base 230.7°C
+[2025-10-16 07:41:47,356] {"type": "telemetry", "t": 9.03, "temp": 227.78, "target": 230.0}
+[2025-10-16 07:41:47,858] {"type": "telemetry", "t": 9.53, "temp": 231.95, "target": 230.0}
+[2025-10-16 07:41:48,359] {"type": "telemetry", "t": 10.03, "temp": 230.27, "target": 230.0}
+[2025-10-16 07:41:48,860] {"type": "telemetry", "t": 10.53, "temp": 231.46, "target": 230.0}
+[2025-10-16 07:41:49,362] INFO | Ajuste automático #3: nueva base 230.1°C
+[2025-10-16 07:41:49,362] {"type": "telemetry", "t": 11.03, "temp": 232.56, "target": 230.0}
+[2025-10-16 07:41:49,864] {"type": "telemetry", "t": 11.54, "temp": 231.9, "target": 230.0}
+[2025-10-16 07:41:50,366] {"type": "telemetry", "t": 12.04, "temp": 228.61, "target": 230.0}
+[2025-10-16 07:41:50,867] {"type": "telemetry", "t": 12.54, "temp": 231.77, "target": 230.0}
+[2025-10-16 07:41:51,368] {"type": "telemetry", "t": 13.04, "temp": 229.61, "target": 230.0}
+[2025-10-16 07:41:51,869] {"type": "telemetry", "t": 13.54, "temp": 230.81, "target": 230.0}
+[2025-10-16 07:41:52,370] {"type": "telemetry", "t": 14.04, "temp": 228.61, "target": 230.0}
+[2025-10-16 07:41:52,872] {"type": "telemetry", "t": 14.54, "temp": 231.38, "target": 230.0}
+[2025-10-16 07:41:53,374] {"type": "telemetry", "t": 15.05, "temp": 228.26, "target": 230.0}
+[2025-10-16 07:41:53,875] {"type": "telemetry", "t": 15.55, "temp": 229.84, "target": 230.0}
+[2025-10-16 07:41:54,377] WARN | Fallo de sensor: sin lectura en este intervalo.
+[2025-10-16 07:41:54,878] {"type": "telemetry", "t": 16.55, "temp": 229.77, "target": 230.0}
+[2025-10-16 07:41:55,380] {"type": "telemetry", "t": 17.05, "temp": 228.69, "target": 230.0}
+[2025-10-16 07:41:55,881] {"type": "telemetry", "t": 17.55, "temp": 228.82, "target": 230.0}
+[2025-10-16 07:41:56,382] {"type": "telemetry", "t": 18.05, "temp": 229.58, "target": 230.0}
+[2025-10-16 07:41:56,883] {"type": "telemetry", "t": 18.56, "temp": 229.46, "target": 230.0}
+[2025-10-16 07:41:57,384] WARN | Fallo de sensor: sin lectura en este intervalo.
+[2025-10-16 07:41:57,886] WARN | Lectura fuera de rango: 224.1°C
+[2025-10-16 07:41:57,886] INFO | Ajuste automático #4: nueva base 231.3°C
+[2025-10-16 07:41:57,888] {"type": "telemetry", "t": 19.56, "temp": 224.08, "target": 230.0}
+[2025-10-16 07:41:58,392] {"type": "telemetry", "t": 20.06, "temp": 231.13, "target": 230.0}
+[2025-10-16 07:41:58,894] INFO | Ajuste automático #5: nueva base 230.8°C
+[2025-10-16 07:41:58,894] {"type": "telemetry", "t": 20.57, "temp": 232.65, "target": 230.0}
+[2025-10-16 07:41:59,398] {"type": "telemetry", "t": 21.07, "temp": 230.52, "target": 230.0}
+[2025-10-16 07:41:59,900] {"type": "telemetry", "t": 21.57, "temp": 228.73, "target": 230.0}
+[2025-10-16 07:42:00,402] {"type": "telemetry", "t": 22.07, "temp": 228.7, "target": 230.0}
+[2025-10-16 07:42:00,904] {"type": "telemetry", "t": 22.58, "temp": 230.08, "target": 230.0}
+[2025-10-16 07:42:01,405] {"type": "telemetry", "t": 23.08, "temp": 230.61, "target": 230.0}
+[2025-10-16 07:42:01,907] {"type": "telemetry", "t": 23.58, "temp": 230.41, "target": 230.0}
+[2025-10-16 07:42:02,409] {"type": "telemetry", "t": 24.08, "temp": 230.56, "target": 230.0}
+[2025-10-16 07:42:02,910] {"type": "telemetry", "t": 24.58, "temp": 230.74, "target": 230.0}
+[2025-10-16 07:42:03,411] {"type": "telemetry", "t": 25.08, "temp": 231.45, "target": 230.0}
+[2025-10-16 07:42:03,913] {"type": "telemetry", "t": 25.59, "temp": 229.28, "target": 230.0}
+[2025-10-16 07:42:04,415] {"type": "telemetry", "t": 26.09, "temp": 230.38, "target": 230.0}
+[2025-10-16 07:42:04,916] {"type": "telemetry", "t": 26.59, "temp": 230.48, "target": 230.0}
+[2025-10-16 07:42:05,417] INFO | Ajuste automático #6: nueva base 230.4°C
+[2025-10-16 07:42:05,419] {"type": "telemetry", "t": 27.09, "temp": 232.06, "target": 230.0}
+[2025-10-16 07:42:05,921] WARN | Lectura fuera de rango: 219.0°C
+[2025-10-16 07:42:05,921] INFO | Ajuste automático #7: nueva base 232.6°C
+[2025-10-16 07:42:05,921] {"type": "telemetry", "t": 27.59, "temp": 218.95, "target": 230.0}
+[2025-10-16 07:42:06,427] INFO | Ajuste automático #8: nueva base 231.8°C
+[2025-10-16 07:42:06,430] {"type": "telemetry", "t": 28.1, "temp": 234.0, "target": 230.0}
+[2025-10-16 07:42:06,931] {"type": "telemetry", "t": 28.6, "temp": 230.69, "target": 230.0}
+[2025-10-16 07:42:07,433] INFO | Ajuste automático #9: nueva base 231.4°C
+[2025-10-16 07:42:07,435] {"type": "telemetry", "t": 29.11, "temp": 232.07, "target": 230.0}
+[2025-10-16 07:42:07,936] {"type": "telemetry", "t": 29.61, "temp": 229.72, "target": 230.0}
+[2025-10-16 07:42:08,437] {"type": "telemetry", "t": 30.11, "temp": 230.07, "target": 230.0}
+[2025-10-16 07:42:08,437] {"type": "session_end", "pizza": "pepperoni", "size": "grande", "duration_s": 30, "efficiency_pct": 81.7, "adjustments": 9, "events": 14, "sensor_failures": 2}
